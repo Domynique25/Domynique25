@@ -1,7 +1,7 @@
 #  Olá, Sou a Domynique Alexandrina ☺️ 
 
-- 💻 I’m currently conhecimentos em testes de software, programação e sistemas embarcados.
-- 🔎 I’m study alguns linguagens e suas lógicas de programação.
+- 💻 Eu busco conhecimentos em testes de software, programação e sistemas embarcados.
+- 🔎 Nesse perfil consta alguns projetos com linguagens e suas lógicas de programação.
 - 🔮 How to reach me: domyniquealexandrinaa@gmail.com
 
 **`Foco em testes de software`**
